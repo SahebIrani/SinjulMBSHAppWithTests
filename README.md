@@ -6,3 +6,6 @@ Unit Testing | Integration Testing | Automated UI tests with Selenium
 Youtube: https://youtu.be/wE0sToVV5G0 || Aparat: https://www.aparat.com/v/1HIOC
 
 Youtube: https://www.youtube.com/watch?v=4eLJo-O9FAo || Aparat: https://www.aparat.com/v/XRuib
+
+![AutomatedUItestswithSeleniumandA](https://8pic.ir/uploads/AutomatedUItestswithSeleniumandA.gif)
+
